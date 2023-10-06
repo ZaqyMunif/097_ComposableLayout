@@ -63,7 +63,7 @@ fun TampilText(message: String, from: String, modifier: Modifier=Modifier) {
             textAlign = TextAlign.Center
         )
         Text(
-            color = Color.Red,
+            color = Color.White,
             text = from,
             fontSize = 60.sp,
             modifier = Modifier
